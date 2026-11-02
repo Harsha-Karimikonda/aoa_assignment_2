@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+<rect width="900" height="470" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="14" fill="#222">
+<text x="450" y="32" text-anchor="middle" font-size="21">Largest zero square: running time</text>
+<line x1="130" x2="810" y1="370" y2="370" stroke="#ddd"/>
+<text x="120" y="375" text-anchor="end">1e-05</text>
+<line x1="130" x2="810" y1="312" y2="312" stroke="#ddd"/>
+<text x="120" y="317" text-anchor="end">0.0001585</text>
+<line x1="130" x2="810" y1="254" y2="254" stroke="#ddd"/>
+<text x="120" y="259" text-anchor="end">0.002512</text>
+<line x1="130" x2="810" y1="196" y2="196" stroke="#ddd"/>
+<text x="120" y="201" text-anchor="end">0.03981</text>
+<line x1="130" x2="810" y1="138" y2="138" stroke="#ddd"/>
+<text x="120" y="143" text-anchor="end">0.631</text>
+<line x1="130" x2="810" y1="80" y2="80" stroke="#ddd"/>
+<text x="120" y="85" text-anchor="end">10</text>
+<path d="M130 80 V370 H810" fill="none" stroke="#222"/>
+<polyline fill="none" stroke="#2368ad" stroke-width="3" points="130,323.075 300,276.183 470,225.984 640,157.314 810,106.661 "/>
+<circle cx="130" cy="323.075" r="5" fill="#2368ad"/>
+<text x="130" y="397" text-anchor="middle">10x10</text>
+<circle cx="300" cy="276.183" r="5" fill="#2368ad"/>
+<text x="300" y="397" text-anchor="middle">10x100</text>
+<circle cx="470" cy="225.984" r="5" fill="#2368ad"/>
+<text x="470" y="397" text-anchor="middle">10x1000</text>
+<circle cx="640" cy="157.314" r="5" fill="#2368ad"/>
+<text x="640" y="397" text-anchor="middle">100x1000</text>
+<circle cx="810" cy="106.661" r="5" fill="#2368ad"/>
+<text x="810" y="397" text-anchor="middle">1000x1000</text>
+<text x="450" y="442" text-anchor="middle">Matrix dimensions</text>
+<text transform="translate(25 225) rotate(-90)" text-anchor="middle">Median runtime (ms, logarithmic scale)</text>
+</g>
+</svg>

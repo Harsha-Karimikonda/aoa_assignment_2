@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+<rect width="900" height="470" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="14" fill="#222">
+<text x="450" y="32" text-anchor="middle" font-size="21">Weighted substring: Scenario 2 (2000 x 2000)</text>
+<line x1="130" x2="810" y1="370" y2="370" stroke="#ddd"/>
+<text x="120" y="375" text-anchor="end">0</text>
+<line x1="130" x2="810" y1="312" y2="312" stroke="#ddd"/>
+<text x="120" y="317" text-anchor="end">7.936</text>
+<line x1="130" x2="810" y1="254" y2="254" stroke="#ddd"/>
+<text x="120" y="259" text-anchor="end">15.87</text>
+<line x1="130" x2="810" y1="196" y2="196" stroke="#ddd"/>
+<text x="120" y="201" text-anchor="end">23.81</text>
+<line x1="130" x2="810" y1="138" y2="138" stroke="#ddd"/>
+<text x="120" y="143" text-anchor="end">31.74</text>
+<line x1="130" x2="810" y1="80" y2="80" stroke="#ddd"/>
+<text x="120" y="85" text-anchor="end">39.68</text>
+<path d="M130 80 V370 H810" fill="none" stroke="#222"/>
+<polyline fill="none" stroke="#2368ad" stroke-width="3" points="130,117.826 205.556,140.27 281.111,154.525 356.667,162.283 432.222,163.514 507.778,163.514 583.333,163.514 658.889,163.514 734.444,163.514 810,163.514 "/>
+<circle cx="130" cy="117.826" r="5" fill="#2368ad"/>
+<text x="130" y="397" text-anchor="middle">1.222</text>
+<circle cx="205.556" cy="140.27" r="5" fill="#2368ad"/>
+<text x="205.556" y="397" text-anchor="middle">2.37</text>
+<circle cx="281.111" cy="154.525" r="5" fill="#2368ad"/>
+<text x="281.111" y="397" text-anchor="middle">3.518</text>
+<circle cx="356.667" cy="162.283" r="5" fill="#2368ad"/>
+<text x="356.667" y="397" text-anchor="middle">4.666</text>
+<circle cx="432.222" cy="163.514" r="5" fill="#2368ad"/>
+<text x="432.222" y="397" text-anchor="middle">5.814</text>
+<circle cx="507.778" cy="163.514" r="5" fill="#2368ad"/>
+<text x="507.778" y="397" text-anchor="middle">6.962</text>
+<circle cx="583.333" cy="163.514" r="5" fill="#2368ad"/>
+<text x="583.333" y="397" text-anchor="middle">8.11</text>
+<circle cx="658.889" cy="163.514" r="5" fill="#2368ad"/>
+<text x="658.889" y="397" text-anchor="middle">9.258</text>
+<circle cx="734.444" cy="163.514" r="5" fill="#2368ad"/>
+<text x="734.444" y="397" text-anchor="middle">10.41</text>
+<circle cx="810" cy="163.514" r="5" fill="#2368ad"/>
+<text x="810" y="397" text-anchor="middle">11.55</text>
+<text x="450" y="442" text-anchor="middle">Mismatch penalty magnitude</text>
+<text transform="translate(25 225) rotate(-90)" text-anchor="middle">Median optimum score</text>
+</g>
+</svg>
